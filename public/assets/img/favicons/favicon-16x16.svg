@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>favicon-16x16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="favicon-16x16" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo">
+            <rect id="bg" fill="#020014" x="7.10542736e-15" y="7.10542736e-15" width="16" height="16" rx="0.326728254"></rect>
+            <path d="M7.14268949,8.43894153 L9.16779066,11.409479 L8.11146988,11.409479 L6.61744711,9.18595291 L5.1117523,11.409479 L4.06710357,11.409479 L6.10387679,8.43894153 L4.07877562,5.46840409 L5.1117523,5.46840409 L6.61744711,7.66858605 L8.11146988,5.46840409 L9.16779066,5.46840409 L7.14268949,8.43894153 Z M11.9154984,3.22736994 L11.9154984,4.23700251 L11.0517665,4.23700251 L11.0517665,3.22736994 L11.9154984,3.22736994 Z M11.9154984,5.46840409 L11.9154984,11.409479 L11.0517665,11.409479 L11.0517665,5.46840409 L11.9154984,5.46840409 Z" id="xi" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
